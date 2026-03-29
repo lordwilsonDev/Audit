@@ -1,3 +1,5 @@
+https://zenodo.org/records/19302976
+https://github.com/lordwilsonDev/BlackSwanLabs
 # Audit
 Audit
 Paper #82: The Universal Audit of the Sovereign Stack
